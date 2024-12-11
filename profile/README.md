@@ -1,76 +1,60 @@
-# Mybothy Documentation
-
-## Table of Contents
-
-- [Mybothy Documentation](#mybothy-documentation)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Key Benefits:](#key-benefits)
-  - [Core Concepts](#core-concepts)
-  - [Technical Architecture](#technical-architecture)
-  - [Features](#features)
-    - [1. Food Scanning](#1-food-scanning)
-    - [2. Personalized Dashboard](#2-personalized-dashboard)
-    - [3. Gamification](#3-gamification)
-    - [4. Daily Newsletter](#4-daily-newsletter)
-    - [5. Workout Assistant](#5-workout-assistant)
-  - [Getting Started](#getting-started)
-  - [API Reference](#api-reference)
-  - [Contributors](#contributors)
-  - [Repositories](#repositories)
+# Hyfit
 
 ## Introduction
 
-Mybothy is an innovative health and nutrition app designed to empower users with instant, accurate information about their food choices. In a world where maintaining a healthy diet is crucial yet often challenging, Mybothy serves as a personal nutritionist in your pocket.
+Hyfit is a health and nutrition app that helps users make better food choices by providing instant, accurate nutritional information. It combines cutting-edge technology with user-friendly features to support a healthier lifestyle.
 
 ### Key Benefits:
 
-- Instant nutritional analysis through food scanning
-- Personalized dietary insights and recommendations
-- Gamified experience to encourage healthy habits
-- Daily curated health and wellness content
+- Instant nutritional analysis via food scanning
+- Personalized dietary recommendations
+- Fun gamified experience to build healthy habits
+- Daily health and wellness tips
 
 ## Core Concepts
 
-Mybothy revolves around several core concepts that form the foundation of its functionality:
+Hyfit is built around the following concepts:
 
-1. **Food Scan Feature**: Utilizes advanced image recognition to provide immediate nutritional information.
-2. **Personalized Dashboard**: Tracks eating habits and offers tailored advice.
-3. **Point System**: Gamifies the experience, rewarding users for healthy choices and engagement.
-4. **Daily Newsletter**: Delivers customized health and nutrition content.
-5. **Workout Assistant**: Complements nutritional guidance with exercise routines.
+1. Food Scanning: Uses image recognition to provide nutritional insights.
+2. Personalized Dashboard: Tracks habits and offers tailored advice.
+3. Gamification: Rewards users for healthy activities.
+4. Daily Newsletter: Shares curated health tips and articles.
+5. Workout Assistant: Offers exercise routines aligned with dietary goals.
 
 ## Technical Architecture
 
-Mybothy is built on a modern, scalable tech stack:
+Hyfit leverages a modern tech stack:
 
-- **Frontend**: Developed using Kotlin for Android, ensuring a responsive and efficient mobile experience.
-- **Backend**: Powered by Google Cloud Platform (GCP) for robust cloud-based services.
-- **Machine Learning**: Image recognition for personalized insights and recommendations.
+1. Frontend: Kotlin for Android
+2. Backend: NestJS and Google Cloud Platform (GCP)
+3. Machine Learning: Tensorflow and Keras
 
 ## Features
 
 ### 1. Food Scanning
-- Instant nutritional analysis
-- Protein and calorie information
-- Personalized consumption recommendations
+
+  - Get instant nutritional details like calories and protein.
+  - Personalized dietary suggestions.
 
 ### 2. Personalized Dashboard
-- Food history logging
-- Progress tracking
-- Goal setting and monitoring
+
+  - Log food history and track progress.
+  - Set and monitor health goals.
 
 ### 3. Gamification
-- Point system for scans and mini-games
-- Redeemable rewards (souvenirs, coupons)
+
+  - Earn points for actions like food scans and mini-games.
+  - Redeem points for rewards.
 
 ### 4. Daily Newsletter
-- Curated health and wellness content
-- Personalized tips and advice
+
+  - Receive personalized health content.
+  - Get tips and advice on nutrition and wellness.
 
 ### 5. Workout Assistant
-- Exercise routines (e.g., jumping jacks, push-ups)
-- Integration with nutritional goals
+
+  - Follow guided exercise routines.
+  - Align workouts with your dietary goals.
 
 ## Getting Started
 
@@ -78,7 +62,7 @@ Mybothy is built on a modern, scalable tech stack:
 
 ## API Reference
 
-**Coming soon!**
+See [CC team repo.](https://github.com/hyfit-bangkit/bangkit-cloud-computing)
 
 ## Contributors
 
@@ -92,6 +76,6 @@ Mybothy is built on a modern, scalable tech stack:
 
 ## Repositories
 
-- [Cloud Computing](https://github.com/mybothy/bangkit-cloud-computing)
-- [Machine Learning](https://github.com/mybothy/bangkit-machine-learning)
-- [Mobile Development](https://github.com/mybothy/bangkit-mobile-development)
+- [Cloud Computing](https://github.com/hyfit-bangkit/bangkit-cloud-computing)
+- [Machine Learning](https://github.com/hyfit-bangkit/bangkit-machine-learning)
+- [Mobile Development](https://github.com/hyfit-bangkit/bangkit-mobile-development)
